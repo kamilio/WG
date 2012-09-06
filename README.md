@@ -3,6 +3,8 @@ WG
 
 WG-gesucht automatic sender
 
+This is not Rails web application, it is console application using ActiveRecord and other Rails features.
+
 1. Create an account on wg-gesucht.de (must be in English)
 2. Fill the config/wg.yml
 3. Create a cool message config/message.txt (word zusammen will be replaced with name)
